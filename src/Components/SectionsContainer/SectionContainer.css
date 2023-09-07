@@ -1,0 +1,37 @@
+.card-container{
+    background-color:#fff;
+    margin:10px;
+    box-shadow:0px 0px 3px #ece0e0;
+    border:2px solid #a1a1a1;
+    padding:20px;
+   max-height:400px;
+    width:450px;
+    border-radius:10px;
+    font-weight:500;
+    font-size:15px;
+    padding:10px;
+
+}
+.card-container:hover{
+    box-shadow:0px 3px 3px #b4a7a7;
+    
+}
+.img11{
+    height:60px;
+    width:60px;
+    border-radius:5px 0px 5px 0px;
+    padding:10px;
+
+}
+
+.section-btn{
+    border:none;
+    background-color:rgb(158, 48, 237);
+    color:#fff;
+    padding:10px;
+    font-weight:bold;
+    border-radius:5px;
+}
+.dark-theme{
+    background-color: #000;
+}
