@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/talenqbeta/static/css/main.bba8ff39.css",
+    "main.js": "/talenqbeta/static/js/main.1b60c215.js",
+    "static/js/787.e36831f4.chunk.js": "/talenqbeta/static/js/787.e36831f4.chunk.js",
+    "index.html": "/talenqbeta/index.html",
+    "main.bba8ff39.css.map": "/talenqbeta/static/css/main.bba8ff39.css.map",
+    "main.1b60c215.js.map": "/talenqbeta/static/js/main.1b60c215.js.map",
+    "787.e36831f4.chunk.js.map": "/talenqbeta/static/js/787.e36831f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bba8ff39.css",
+    "static/js/main.1b60c215.js"
+  ]
+}
